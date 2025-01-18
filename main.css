@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+#home-el, #guest-el {
+    background-color: black;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 100px;
+    text-align: center;
+}
+
+body {
+    background-color: #1B244A;
+    font-family: "Roboto";
+}
+
+h3 {
+    color: #9AABD8;
+}
+
+button {
+    border-color: ;
+    color: #9AABD8;
+    background-color: #1B244A;
+    border-radius: 5px;
+}
+
